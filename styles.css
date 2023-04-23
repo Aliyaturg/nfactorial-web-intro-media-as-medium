@@ -102,13 +102,13 @@ body {
     padding-left: 40px;
 }
 
-.content-topic {
+.article {
     font-weight: 700;
     font-size: 28px;
     line-height: 34px;
 }
 
-.content-topic:hover {
+.article:hover {
     cursor: pointer;
     text-decoration: underline;
     color: gray;
